@@ -5,6 +5,9 @@ Files required for the guide.
 To import the CSGO.nip and CS2.nip files, find the profile name at the top and then click on remove executable from current profile.Then import the file.
 
 
-![image](https://github.com/fpsheaven/refrag_fps_guide/assets/58235292/b05a3775-973e-4b59-8d55-993d10d81d0f)
-![image](https://github.com/fpsheaven/refrag_fps_guide/assets/58235292/fd3e94b7-117a-4368-a6bd-af0b6f77d16a)
 
+Remove BOTH EXEs
+![image](https://github.com/fpsheaven/refrag_fps_guide/assets/58235292/d39c9dcd-b9cb-4121-a6ee-f77638388cd5)
+
+Remove just CSGO.exe
+![image](https://github.com/fpsheaven/refrag_fps_guide/assets/58235292/af46b5aa-eacc-42b4-b8c8-f0c656e76a00)
